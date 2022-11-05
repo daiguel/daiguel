@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on fivem resources
+- 🔭 my hobby for now is making fivem resources
 - 🤔 I’m looking for help to mange a server on discord
 - 📫 How to reach me on discord: daiguel#6078
 - ⚡ Fun fact: I'm a noobie 😅
