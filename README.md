@@ -7,6 +7,4 @@
 - 📫 How to reach me on discord: daiguel#6078
 - ⚡ Fun fact: I'm a noobie 😅
 
- <a href="https://ko-fi.com/daiguel"><img
-    src="https://ko-fi.com/img/githubbutton_sm.svg"
-  /></a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N6G66H9)
